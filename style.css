@@ -608,27 +608,27 @@ body {
 
 /* Fotos em gradiente decorativo (substituir por imagens reais) */
 .photo-1 {
-  background-image: url("/fotos/ft1.jpeg");
+  background-image: url("./fotos/ft1.jpeg");
 }
 
 .photo-2 {
-  background-image: url("/fotos/ft2.jpeg");
+  background-image: url("./fotos/ft2.jpeg");
 }
 
 .photo-3 {
-  background-image: url("/fotos/ft3.jpeg");
+  background-image: url("./fotos/ft3.jpeg");
 }
 
 .photo-4 {
-  background-image: url("ft4.jpeg");
+  background-image: url("./fotos/ft4.jpeg");
 }
 
 .photo-5 {
-  background-image: url("/fotos/ft5.jpeg");
+  background-image: url("./fotos/ft5.jpeg");
 }
 
 .photo-6 {
-  background-image: url("/fotos/ft6.jpeg");
+  background-image: url("./fotos/ft6.jpeg");
 }
 
 /* ícones decorativos nas fotos */
