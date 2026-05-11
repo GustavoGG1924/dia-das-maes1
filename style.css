@@ -601,7 +601,7 @@ body {
 
 /* Fotos em gradiente decorativo (substituir por imagens reais) */
 .photo-1 {
-  background-image: url("/ft1.jpeg");
+  background-image: url("ft1.jpeg");
 }
 
 .photo-2 {
