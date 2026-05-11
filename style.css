@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-/* ============================================================
-   FELIZ DIA DAS MÃES — style.css
-   Paleta: rosé, dourado, lilás, branco elegante
-   Fontes: Cormorant Garamond (display) + Lato (body)
-   ============================================================ */
 
-/* ── VARIÁVEIS ── */
+
 :root {
   --rose-100: #fff0f3;
   --rose-200: #ffd6e0;
@@ -562,9 +556,7 @@ body {
   line-height: 1.7;
 }
 
-/* ══════════════════════════════════
-   TELA 5 — GALERIA POLAROID
-══════════════════════════════════ */
+
 .s5-content { min-height: 100vh; justify-content: flex-start; padding-top: 60px; padding-bottom: 60px; }
 
 .polaroid-gallery {
@@ -1028,12 +1020,7 @@ body {
 
 @media (max-width: 400px) {
   .s1-name { font-size: 4.5rem; }
-=======
-/* ============================================================
-   FELIZ DIA DAS MÃES — style.css
-   Paleta: rosé, dourado, lilás, branco elegante
-   Fontes: Cormorant Garamond (display) + Lato (body)
-   ============================================================ */
+
 
 /* ── VARIÁVEIS ── */
 :root {
@@ -2058,5 +2045,5 @@ body {
 
 @media (max-width: 400px) {
   .s1-name { font-size: 4.5rem; }
->>>>>>> 222a176e6899f6e58f187880e50e2ec40e29f192
+ 
 }
